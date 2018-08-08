@@ -1,0 +1,33 @@
+body{
+
+}
+
+p{
+    color: yellow;
+    background-color: gray;
+}
+
+h1{
+    color: red;
+}
+
+.secondParagraph{
+    background-color: blue;
+}
+.firstParagraph{
+    color: pink;
+
+}
+.thirdParagraph{
+    color: pink;
+    text-align: center;
+}
+.fourthParagraph{
+    color: pink;
+}
+
+span{
+    display: block;
+    text-decoration: underline;
+}
+
